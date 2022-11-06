@@ -1,2 +1,2 @@
-# leetscreen
-Schedule your next technical phone screening.
+# Leetscreen
+Leetscreen is a platform that helps software engineers schedule their next technical phone screening.
